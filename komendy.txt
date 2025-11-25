@@ -1,4 +1,0 @@
-wersja 21
-JAR
-stablina 3.57 , nie zaznaczac snapshot
-
